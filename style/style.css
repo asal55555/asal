@@ -212,9 +212,13 @@ body {
     text-align: center;
     position: relative;
     padding-top: 79px;
-    padding-bottom: 39px;
+    /* padding-bottom: 39px; */
     border-radius: 10px;
     width: 100%;
+}
+
+.main__bottom-t{
+    margin-bottom: 16px;
 }
 
 .main__bottom_card:nth-child(2)::after {
